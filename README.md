@@ -4,4 +4,4 @@ Este repositorio consitutye un modelo para el análisis de datos en el marco del
 
 # Autor/a
 
-Esta versión del proyecto esta a cargo de Cristóbal Moya
+Esta versión del proyecto esta a cargo de Eduardo Peña
